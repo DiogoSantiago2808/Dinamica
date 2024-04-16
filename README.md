@@ -1,8 +1,8 @@
-# React/DjangoRF Authentication App
 
-Authentication app using React and Django REST framework with session authentication.
 
-## Installations
+Lista to do
+
+## Intalacoes necessarias
 
 * backend
 ```
